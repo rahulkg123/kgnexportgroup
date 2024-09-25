@@ -1,4 +1,4 @@
-<?php require_once "../../globals.php";
+<?php require_once "../globals.php";
 require_once 'header.php';?>
 
 <body class="post-template-default single single-post postid-14510 single-format-standard wp-embed-responsive is-light-theme singular has-main-navigation e-lazyload kgnexportgroup-default kgnexportgroup-kit-14043 kgnexportgroup-page kgnexportgroup-page-14510 e--ua-firefox" data-kgnexportgroup-device-mode="desktop">
@@ -33,13 +33,14 @@ require_once 'header.php';?>
 									</ul>
 									</li>
 								</ul>
-								<form class="d-flex">
+								<form class="d-flex hidden">
 									<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
 									<button class="btn btn-outline-success" type="submit">Search</button>
 								</form>
 								</div>
 							</div>
 							</nav>
+							<hr>
 						</div>
 					</div>
                 </div><!-- End .container -->
@@ -307,7 +308,7 @@ Ph: +91 9782595041</p>
       </div>
 </footer>
 
-<button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
+<button id="scroll-top" class="hidden" title="Back to Top"><i class="icon-arrow-up"></i></button>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>

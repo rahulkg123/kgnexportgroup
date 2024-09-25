@@ -10,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
    <link rel="stylesheet" href="assets/style.css">
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-	<title>Global Granite Excellence: Crafting India's Finest Exports</title>
+	<title>KGN Export Group</title>
   
 	<meta name="description" content="Get to know the top Indian granite stones being exporters from India to other countries across the world.">
 	<link rel="canonical" href="https://kgnexportgroup.com/">
